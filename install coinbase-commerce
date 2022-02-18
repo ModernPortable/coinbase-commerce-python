@@ -1,0 +1,5 @@
+pip install coinbase-commerce
+
+or
+
+easy_install coinbase-commerce
